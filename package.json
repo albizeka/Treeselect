@@ -1,0 +1,22 @@
+{
+  "name": "treeselect",
+  "version": "1.0.0",
+  "description": "A treeselect pre-builded library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/albizeka/Treeselect.git"
+  },
+  "keywords": [
+    "Vue-3-treeselect"
+  ],
+  "author": "Albi Zeka",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/albizeka/Treeselect/issues"
+  },
+  "homepage": "https://github.com/albizeka/Treeselect#readme"
+}
