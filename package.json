@@ -1,5 +1,5 @@
 {
-  "name": "treeselect",
+  "name": "@albiizeka/treeselect",
   "version": "1.0.0",
   "description": "A treeselect pre-builded library",
   "main": "index.js",
@@ -15,6 +15,7 @@
   ],
   "author": "Albi Zeka",
   "license": "MIT",
+  "private": false,
   "bugs": {
     "url": "https://github.com/albizeka/Treeselect/issues"
   },
